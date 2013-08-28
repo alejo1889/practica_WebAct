@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "funBasicas",
+  "description": "Ejemplo del uso de las Web Activities en FXOS",
+  "launch_path": "index.html",
+  "icons": {
+    "60": "/img/icons/logo60.png",
+    "128": "/img/icons/logo128.png"
+  },
+  "developer": {
+    "name": "Alejandro Sotelo"
+  },
+    
+  "default_locale": "es"
+}

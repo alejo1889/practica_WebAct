@@ -1,0 +1,22 @@
+
+html, body {
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+    }
+    body {
+      background: none;
+    }
+    section[role="region"] {
+      margin-bottom: 1.5rem;
+      position: relative;
+    }
+    p{
+      text-align: justify;
+      padding: 10px;
+    }
+    #main {
+      position: relative;
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
